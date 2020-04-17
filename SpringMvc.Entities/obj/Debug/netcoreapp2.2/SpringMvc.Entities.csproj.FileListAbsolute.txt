@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\bin\Debug\netcoreapp2.2\SpringMvc.Entities.deps.json
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\bin\Debug\netcoreapp2.2\SpringMvc.Entities.dll
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\bin\Debug\netcoreapp2.2\SpringMvc.Entities.pdb
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\obj\Debug\netcoreapp2.2\SpringMvc.Entities.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\obj\Debug\netcoreapp2.2\SpringMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\obj\Debug\netcoreapp2.2\SpringMvc.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\obj\Debug\netcoreapp2.2\SpringMvc.Entities.AssemblyInfo.cs
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\obj\Debug\netcoreapp2.2\SpringMvc.Entities.dll
+C:\Users\hp\source\repos\SpringMvcApp\SpringMvc.Entities\obj\Debug\netcoreapp2.2\SpringMvc.Entities.pdb
